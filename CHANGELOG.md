@@ -2,4 +2,6 @@
 
 ## develop branch
 
-Nothing yet.
+### New
+
+* `Operators\CompareTwoNumbers` - originally from the `ganbarodigital/php-versions` package
